@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "What is the capital city of India?",
+            "options": [{
+                    "text": "Mumbai"
+                },
+                {
+                    "text": "Chandigarh"
+                },
+                {
+                    "text": "New Delhi",
+                    "correct": true
+                },
+                {
+                    "text": "Bangalore"
+                }
+            ],
+            "explanation": "New Delhi is the capital city of India."
+        },
+        {
+            "questionText": "Current Prime Minister of India is _____.",
+            "options": [{
+                    "text": "Arvind Khejriwal"
+                },
+                {
+                    "text": "Amit Shah"
+                },
+                {
+                    "text": "Ram Nath Kovind"
+                },
+                {
+                    "text": "Narendra Modi",
+                    "correct": true
+                }
+            ],
+            "explanation": "Shri Narendra Damordas Modi is the current prime minister of India and has been in the service from 2013."
+        },
+        {
+            "questionText": "Who is the CEO of Google?",
+            "options": [{
+                    "text": "Elon Musk"
+                },
+                {
+                    "text": "Sundar Pichai",
+                    "correct": true
+                },
+                {
+                    "text": "Bill Gates"
+                },
+                {
+                    "text": "Mark Zuckerberg"
+                }
+            ],
+            "explanation": "Sundar Pichai is the CEO of Google and it's parent company Alphabet Inc."
+        },
+        {
+            "questionText": "Which among these is also refrred as God of Cricket?",
+            "options": [{
+                    "text": "Don Bradman"
+                },
+                {
+                    "text": "Sachin Tendulkar",
+                    "correct": true
+                },
+                {
+                    "text": "Michael Holding"
+                },
+                {
+                    "text": "James Anderson"
+                }
+            ],
+            "explanation": "Sachin Tendulkar also known as Master Blaster is referred as God of Cricket."
+        },
+        {
+            "questionText": "Which animal is called as Ship of the Desert",
+            "options": [{
+                    "text": "Camel",
+                    "correct": true
+                },
+                {
+                    "text": "Elephant"
+                },
+                {
+                    "text": "Giraffe"
+                },
+                {
+                    "text": "Lion"
+                }
+            ],
+            "explanation": "Camel is known as Ship of the desert as it can store water and food in it's hump."
+        },
+        {
+            "questionText": "Which is the most sensitive organ in human body?",
+            "options": [{
+                    "text": "Hands"
+                },
+                {
+                    "text": "Ears"
+                },
+                {
+                    "text": "Eyes"
+                },
+                {
+                    "text": "Skin",
+                    "correct": true
+                }
+            ],
+            "explanation": "Skin is the most sensitive organ in human body"
+        },
+        {
+            "questionText": "_____ is the brain of the computer.",
+            "options": [{
+                    "text": "Monitor"
+                },
+                {
+                    "text": "CPU",
+                    "correct": true
+                },
+                {
+                    "text": "Mouse"
+                },
+                {
+                    "text": "UPS"
+                }
+            ],
+            "explanation": "CPU is the brain of the computer."
+        },
+        {
+            "questionText": "Goitre is caused due to the deficiency of?",
+            "options": [{
+                    "text": "Iodine",
+                    "correct": true
+                },
+                {
+                    "text": "Calcium"
+                },
+                {
+                    "text": "Zinc"
+                },
+                {
+                    "text": "Potassium"
+                }
+            ],
+            "explanation": "Deficiency of Iodine causes Goitre in Humans."
+        },
+        {
+            "questionText": "Longest river in the world is _____.",
+            "options": [{
+                    "text": "Nile",
+                    "correct": true
+                },
+                {
+                    "text": "Amazon"
+                },
+                {
+                    "text": "Bramaputra"
+                },
+                {
+                    "text": "Indus"
+                }
+            ],
+            "explanation": " Longest river in the world is Nile in Africa."
+        },
+        {
+            "questionText": "On which day United Nation (UN) day is celebrated?",
+            "options": [{
+                    "text": "24th October",
+                    "correct": true
+                },
+                {
+                    "text": "3rd April"
+                },
+                {
+                    "text": "5th June"
+                },
+                {
+                    "text": "1st December"
+                }
+            ],
+            "explanation": "United Nation (UN) day is celebrated on 24th October."
+        }
+    ]
+}
